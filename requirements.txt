@@ -1,0 +1,10 @@
+# conda create -p venv python==3.9 -y 
+
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+langchain-community
+langchain-core
